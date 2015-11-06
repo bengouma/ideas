@@ -13,7 +13,7 @@ secondWord = [line.strip() for line in open("operations.txt")]
 wordTwo = tkinter.Label(root, text = " ")
 
 def generate():
-    global firstWord
+	global firstWord
 	global wordOne
 	global secondWord
 	global wordTwo

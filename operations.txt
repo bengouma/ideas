@@ -1,0 +1,8 @@
+generator
+maker
+game
+reader
+inator
+doer
+sharer
+getter

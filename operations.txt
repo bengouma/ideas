@@ -2,7 +2,9 @@ generator
 maker
 game
 reader
-inator
 doer
 sharer
 getter
+creator
+simulator
+program
